@@ -19,6 +19,7 @@ Also known as Charis, (true name) Gabriel, and "formerly" [LeoLegal](https://scr
 ### 🌱 Currently learning
 
 - Web development;
+- Game development using Godot Engine;
 - Python.
 
 <!--
