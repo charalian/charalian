@@ -1,7 +1,7 @@
 <img src="https://u.cubeupload.com/LeoLegal/checkersDiv.png" width="200" alt="My pfp isn't an omnitrix btw lol.">
 
 ## Greetings! I am Charalian! 👋
-Also known as Charis, (true name) Gabriel, and "formerly" [LeoLegal](https://scratch.mit.edu/users/LeoLegal/).
+Also known as Gabriel and "formerly" [LeoLegal](https://scratch.mit.edu/users/LeoLegal/).
 <br>Thanks for stopping by!
 
 ### 🔨 Collaborations
