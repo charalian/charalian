@@ -13,7 +13,7 @@ Called Gabriel in real life. Thanks for stopping by!
 
 ### 🔭 Currently working on
 
-- Translations.
+- Translations;
 - Freelance projects.
 
 ### 🌱 Currently learning
