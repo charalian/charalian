@@ -1,20 +1,20 @@
 <img src="https://u.cubeupload.com/LeoLegal/checkersDiv.png" width="200" alt="My pfp isn't an omnitrix btw lol.">
 
 ## Greetings! I am Charalian! 👋
-Also known as Gabriel and "formerly" [LeoLegal](https://scratch.mit.edu/users/LeoLegal/).
-<br>Thanks for stopping by!
+Called Gabriel in real life. Thanks for stopping by!
 
 ### 🔨 Collaborations
 
-- Brazilian Portuguese translator for [TurboWarp](https://github.com/TurboWarp/);
-- Brazilian Portuguese translator for [Scratch Addons](https://github.com/ScratchAddons/ScratchAddons).
+- Brazilian Portuguese translation for [TurboWarp](https://github.com/TurboWarp/);
+- Brazilian Portuguese translation for [Scratch Addons](https://github.com/ScratchAddons/ScratchAddons).
 
-### 😉 Minor collaborations
-- Ideas and bug reports for [Refviewer](https://github.com/limbank/refviewer) *(I've been cited at the special thanks section!)*.
+### 😉 Other collaborations
+- Suggestions and bug reports for [Refviewer](https://github.com/limbank/refviewer) *(I've been cited at the special thanks section!)*.
 
 ### 🔭 Currently working on
 
-- My [website](https://github.com/charalian/charalian-website).
+- Translations.
+- Freelance projects.
 
 ### 🌱 Currently learning
 
