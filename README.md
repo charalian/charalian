@@ -1,7 +1,7 @@
 <img src="https://u.cubeupload.com/LeoLegal/checkersDiv.png" width="200" alt="My pfp isn't an omnitrix btw lol.">
 
 ## Greetings! I am Charalian! 👋
-Called Gabriel in real life. Thanks for stopping by!
+Thanks for stopping by!
 
 ### 🔨 Collaborations
 
